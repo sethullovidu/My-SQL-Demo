@@ -18,3 +18,6 @@ age INT
 print("Table ready: students") 
 cur.close() 
 conn.close() 
+print("Table ready: students") 
+cur.close() 
+conn.close() 
